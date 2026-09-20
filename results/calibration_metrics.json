@@ -1,0 +1,6 @@
+{
+    "model": "XGBoost",
+    "roc_auc": 0.908923,
+    "pr_auc": 0.37177,
+    "brier_score": 0.08445842580553191
+}
